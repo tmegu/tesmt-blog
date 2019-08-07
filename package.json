@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "TMs blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "TM blog by Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "TM",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://tmegu.github.io/blog"
   },
   "dependencies": {
     "gatsby": "^2.13.45",
