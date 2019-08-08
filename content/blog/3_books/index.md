@@ -1,12 +1,10 @@
 ---
-title: Books 2
+title: 本の話 2
 date: "2019-08-07T22:12:03.284Z"
-description: "本の話"
+description: "『NO-NO BOY』"
 ---
 
 記事を作る練習です。
 その辺にあった本のタイトルなど書いてみます。
 
 ジョン・岡田／川井龍介訳『NO-NO BOY』旬報社、2016
-
-
