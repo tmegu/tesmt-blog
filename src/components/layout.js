@@ -22,7 +22,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: `none`,
-              textDecoration: `none`,
+              textDecoration: `underline dotted blue`,
               color: `inherit`,
             }}
             to={`/`}
@@ -37,6 +37,7 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
+            fontFamily:"Century Gothic",
           }}
         >
           <Link
